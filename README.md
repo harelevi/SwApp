@@ -1,5 +1,5 @@
 # SwApp
- ® all the rights reserved for ® 
+ ® all rights reserved for ® 
  Erez Presser
  Harel levi
  Amit Bar lev
