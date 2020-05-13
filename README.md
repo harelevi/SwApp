@@ -1,7 +1,7 @@
 # SwApp
  ® all rights reserved for ® 
- Erez Presser,
  Harel levi,
+ Erez Presser,
  Amit Bar lev.
  
   SwApp"- Xamarin Forms Mobile Application (B.Sc. Final Project)
