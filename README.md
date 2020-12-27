@@ -1,8 +1,8 @@
 # SwApp
  ® All rights reserved for ® 
- Harel levi,
+ Harel Levy,
  Erez Presser,
- Amit Bar lev.
+ Amit Bar Lev.
  
  UI illustration : check https://www.youtube.com/watch?v=KoM-qv9DBAs&feature=youtu.be&fbclid=IwAR0nEuLGN_5xNToKMfdKu51amUBFst3io4P1IFnO7K9MM34uI3ZxcWdWOwI (Hebrew)  
 
